@@ -1,0 +1,5 @@
+1. SINGLE lövés esetén mindkét tárban van 1-1 töltény, de csak az első lőtt.
+2. Három SINGLE lövés esetén, ha a második tárban 2, az elsőben 1 lőszer van, először az első, majd a második lő, de harmadik esetben is a második fog lőni.
+3. Két SINGLE lövés esetén az első tárban 2 lőszer van, de először az első, másodjára a második tár lő annak ellenére, hogy van még az elsőben.
+4. Az egyik tár hibát jelez, a másikban van töltény, de nem lövi el.
+5. ALL esetén mindkét tárban van egy-egy töltény és mindkettőt ellövik.
